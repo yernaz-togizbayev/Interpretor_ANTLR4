@@ -44,3 +44,17 @@ It implements a **custom programming language** called **BigCalcProg**, designed
 Example command-line run:
 ```bash
 java -cp .:antlr-4.7.1-complete.jar BigCalcProg sample.bgc
+```
+
+---
+## 📖 Documentation
+The full project report (Assignment4PLC22WS.pdf) explains:
+- Grammar design choices
+- Language features
+- Example programs
+- Limitations and future improvements
+
+
+---
+## 📄 License
+This project is provided for educational purposes only and not for production use.
